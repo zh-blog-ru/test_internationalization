@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Начало
 
+Перед запуском выполните 
+
+```bash
+npm install
+```
+
 Для проверки работы интернационализации выполните build и запустите(start) проект:
 
 ```bash
